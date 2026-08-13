@@ -9,6 +9,8 @@ Deploying to **Cloudflare Pages** is reccomended!
 **Sapphire** is an app that runs inside of your browser and allows you to load custom HTML5 Apps with/without an internet connection.  
   
 This works using **Origin Private File System (OPFS)** which is a Storage API that allows website developers to store data in a virtual filesystem that runs directly in the browser, perfect for this project of mine!
+## But why?
+I'm sick and tired of having to search for different unblocked links to different utilities that I do need for my own personal work and hobbies along with searching for games. Instead of hunting down a ton of links for each game and everything, I have made this process a bit easier by having it all in one place. **(It also serves as a replacement for my huge bookmark folder full of game sites)**
 ## How do I use this?
 Go to any instance (a.k.a website) running **Sapphire** such as the official one for example and you will be greeted with a prompt to install the App which is recommended to do but it's entirely up to you.  
   
