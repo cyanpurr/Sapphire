@@ -1,4 +1,6 @@
 # TODO:
+## Sapphire
+- Faster ZIP library for extraction?
 ## Settings
 - Have the option to adjust the time for storage checking.
 - Install apps manually from .ZIP files for development testing.
