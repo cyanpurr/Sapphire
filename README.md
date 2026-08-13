@@ -4,7 +4,14 @@ Deploying to **Cloudflare Pages** is reccomended!
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cyanpurr/Sapphire)
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/cyanpurr/Sapphire)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/cyanpurr/Sapphire)  
-[![Fork on GitHub](https://img.shields.io/badge/Fork_on_GitHub-333?logo=github)](https://github.com/cyanpurr/Sapphire/fork)
+[![Fork on GitHub](https://img.shields.io/badge/Fork_on_GitHub-333?logo=github)](https://github.com/cyanpurr/Sapphire/fork)  
+https://サファイア.cyanpurr.cc.cd - Instance 1  
+https://s.cyanpurr.cc.cd - Instance 2  
+https://sl.cyanpurr.cc.cd - Instance 3  
+https://chronos-sapphire.cyanpurr.cc.cd - Instance 4  
+https://math.cyanpurr.cc.cd - Instance 5  
+https://school.cyanpurr.cc.cd - Instance 6  
+https://edu.cyanpurr.cc.cd - Instance 7  
 ## What is this?
 **Sapphire** is an app that runs inside of your browser and allows you to load custom HTML5 Apps with/without an internet connection.  
   
